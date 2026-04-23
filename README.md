@@ -3,7 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-fatma--abdelrahim--hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatma-abdelrahim-hassan/)](https://www.linkedin.com/in/fatma-abdelrahim-hassan/)
 
-Project Manager & Operations Specialist at **ESG Consulting**, driving end-to-end project delivery and continuous process improvement. I manage complex systems and cross-functional teams, ensuring projects are delivered on time, within scope, and aligned with business goals.
+Assistant Manager & Operations Specialist at **ESG Consulting**, driving end-to-end project delivery and continuous process improvement. I manage complex systems and cross-functional teams, ensuring projects are delivered on time, within scope, and aligned with business goals.
 
 Currently overseeing the **WKLGRC system** — coordinating workflows, stakeholders, and operational processes to support ESG consulting objectives.
 
