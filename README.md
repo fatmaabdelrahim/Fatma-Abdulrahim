@@ -1,11 +1,11 @@
-[README.md](https://github.com/user-attachments/files/27007736/README.md)
+[README (1).md](https://github.com/user-attachments/files/27007989/README.1.md)
 # Hi, I'm Fatma Abdelrahim Hassan 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-fatma--abdelrahim--hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatma-abdelrahim-hassan/)](https://www.linkedin.com/in/fatma-abdelrahim-hassan/)
 
-Assistant Manager & Operations Specialist at **ESG Consulting**, driving end-to-end project delivery and continuous process improvement. I manage complex systems and cross-functional teams, ensuring projects are delivered on time, within scope, and aligned with business goals.
+Administrative Assistant in the Operations Department at **ESG Consulting**, specializing in cross-team coordination and communication management. I keep things moving by connecting the right people, organizing workflows, and making sure nothing falls through the cracks.
 
-Currently overseeing the **WKLGRC system** — coordinating workflows, stakeholders, and operational processes to support ESG consulting objectives.
+Currently supporting the **WKLGRC system** — handling coordination tasks, facilitating communication between teams, and ensuring smooth day-to-day operations across departments.
 
 ---
 
@@ -27,30 +27,30 @@ Currently overseeing the **WKLGRC system** — coordinating workflows, stakehold
 
 ## 🚀 What I'm Working On
 
-- **WKLGRC System** — Managing and coordinating the full project lifecycle for this internal system at ESG Consulting, including stakeholder alignment, documentation, and operational oversight.
-- **Process Improvement Initiatives** — Identifying bottlenecks in current workflows and implementing structured solutions to enhance team efficiency and delivery quality.
+- **WKLGRC System** — Supporting the coordination and administrative operations of this system at ESG Consulting, including team communication, documentation management, and cross-department follow-ups.
+- **Streamlining Team Communication** — Building better coordination habits and communication flows between teams to reduce delays and improve collaboration.
 
 ---
 
 ## 💼 Experience Highlights
 
-- Led cross-functional project teams from initiation through delivery, managing scope, timelines, and stakeholder expectations.
-- Developed and maintained operational SOPs and process documentation to standardize workflows across departments.
-- Tracked project KPIs and produced executive-level reporting to support data-driven decision-making.
-- Coordinated between technical and non-technical stakeholders to ensure smooth communication and project alignment.
-- Managed risk registers, change requests, and escalation processes on active consulting engagements.
-- Used **Git & GitHub** to version-control project documentation, track changes across project phases, and collaborate with technical teams directly in repositories — bridging the gap between project management and development workflows.
-- Created and managed **Jira** boards, epics, and sprints to track delivery progress, assign tasks, and generate real-time status reports for stakeholders.
+- Coordinate between multiple teams and departments to ensure smooth communication and aligned delivery across ongoing projects.
+- Manage meeting schedules, follow-ups, and action items to keep teams on track and accountable.
+- Maintain operational documentation including SOPs, meeting minutes, and status reports.
+- Act as a communication bridge between technical teams and management, translating needs into clear, actionable updates.
+- Support day-to-day operations by organizing workflows, tracking tasks, and flagging blockers early.
+- Used **Git & GitHub** to manage and version-control project documentation, collaborating with technical teams directly in repositories.
+- Used **Jira** to track tasks, coordinate assignments across teams, and monitor progress on active workstreams.
 
 ---
 
 ## 📌 Core Strengths
 
-- ✅ End-to-End Project Ownership
-- ✅ Stakeholder Management & Communication
-- ✅ Operations & Process Optimization
-- ✅ Documentation & Reporting
-- ✅ Problem-Solving Under Pressure
+- ✅ Cross-Team Coordination & Communication
+- ✅ Workflow Organization & Follow-Up
+- ✅ Operational Documentation & Reporting
+- ✅ Stakeholder Communication Support
+- ✅ Attention to Detail & Problem-Solving
 
 ---
 
@@ -59,7 +59,7 @@ Currently overseeing the **WKLGRC system** — coordinating workflows, stakehold
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Clickup](https://clickup.com/lp?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_arlv_nnc_brand_trial_all-devices_troas_lp_x_all-departments_x_brand&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_clickup_broad&utm_term=clickup&utm_creative=651395805263_BrandChampion-03072023_rsa&utm_custom1=&utm_custom2=&utm_lptheme=&utm_lpmod=&utm_mt=b&gad_source=1&gad_campaignid=19826757985&gbraid=0AAAAACR5vIJ6LA55yX5Ah5x5VODPgxv0p&gclid=CjwKCAjwhqfPBhBWEiwAZo196tJ118Scn8T6qysRJM7dPk1uKIbK51kWWqlU02Mj2x-3mb7rC-jjkBoCw_cQAvD_BwE)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
