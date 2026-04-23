@@ -3,7 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-fatma--abdelrahim--hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatma-abdelrahim-hassan/)](https://www.linkedin.com/in/fatma-abdelrahim-hassan/)
 
-Administrative Assistant in the Operations Department at **ESG Consulting**, specializing in cross-team coordination and communication management. I keep things moving by connecting the right people, organizing workflows, and making sure nothing falls through the cracks.
+An Assistant Manager in the Operations Department at **ESG Consulting**, specializing in cross-team coordination and communication management. I keep things moving by connecting the right people, organizing workflows, and making sure nothing falls through the cracks.
 
 Currently supporting the **WKLGRC system** — handling coordination tasks, facilitating communication between teams, and ensuring smooth day-to-day operations across departments.
 
@@ -15,7 +15,7 @@ Currently supporting the **WKLGRC system** — handling coordination tasks, faci
 
 **Operations:** Process Mapping, SOP Development, Workflow Optimization, KPI Tracking
 
-**Tools & Platforms:** Jira, Confluence, MS Project, Trello, Excel (Advanced), PowerPoint
+**Tools & Platforms:** Jira, Clickup, MS Project, Trello, Excel (Advanced), PowerPoint
 
 **Version Control & Collaboration:** Git, GitHub — managing repositories, tracking project changes, reviewing pull requests, and maintaining documentation directly in code repositories alongside development teams
 
@@ -28,7 +28,7 @@ Currently supporting the **WKLGRC system** — handling coordination tasks, faci
 ## 🚀 What I'm Working On
 
 - **WKLGRC System** — Supporting the coordination and administrative operations of this system at ESG Consulting, including team communication, documentation management, and cross-department follow-ups.
-- **Streamlining Team Communication** — Building better coordination habits and communication flows between teams to reduce delays and improve collaboration.
+- **Streamlining Team Communication** — Building better coordination and communication flows between teams to reduce delays and improve collaboration.
 
 ---
 
@@ -59,7 +59,7 @@ Currently supporting the **WKLGRC system** — handling coordination tasks, faci
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Clickup](https://clickup.com/lp?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_arlv_nnc_brand_trial_all-devices_troas_lp_x_all-departments_x_brand&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_clickup_broad&utm_term=clickup&utm_creative=651395805263_BrandChampion-03072023_rsa&utm_custom1=&utm_custom2=&utm_lptheme=&utm_lpmod=&utm_mt=b&gad_source=1&gad_campaignid=19826757985&gbraid=0AAAAACR5vIJ6LA55yX5Ah5x5VODPgxv0p&gclid=CjwKCAjwhqfPBhBWEiwAZo196tJ118Scn8T6qysRJM7dPk1uKIbK51kWWqlU02Mj2x-3mb7rC-jjkBoCw_cQAvD_BwE)
+![Clickup](https://clickup.com/)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
