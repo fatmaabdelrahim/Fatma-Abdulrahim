@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/27007989/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/27008255/README.2.md)
 # Hi, I'm Fatma Abdelrahim Hassan 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-fatma--abdelrahim--hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatma-abdelrahim-hassan/)](https://www.linkedin.com/in/fatma-abdelrahim-hassan/)
@@ -15,9 +15,13 @@ Currently supporting the **WKLGRC system** — handling coordination tasks, faci
 
 **Operations:** Process Mapping, SOP Development, Workflow Optimization, KPI Tracking
 
-**Tools & Platforms:** Jira, Clickup, MS Project, Trello, Excel (Advanced), PowerPoint
+**Tools & Platforms:** Jira, ClickUp, MS Project, Trello, Excel (Advanced), PowerPoint
 
 **Version Control & Collaboration:** Git, GitHub — managing repositories, tracking project changes, reviewing pull requests, and maintaining documentation directly in code repositories alongside development teams
+
+**Microsoft 365:** Word, Excel, PowerPoint, Outlook, Teams, OneNote — used daily for documentation, communication, reporting, and collaboration across departments
+
+**AI Tools:** Claude, ChatGPT, Microsoft Copilot, and other AI assistants — leveraged to enhance productivity, draft communications, summarize reports, and support decision-making
 
 **Reporting & Documentation:** Stakeholder Reports, PRDs, Status Dashboards, Meeting Minutes
 
@@ -40,7 +44,8 @@ Currently supporting the **WKLGRC system** — handling coordination tasks, faci
 - Act as a communication bridge between technical teams and management, translating needs into clear, actionable updates.
 - Support day-to-day operations by organizing workflows, tracking tasks, and flagging blockers early.
 - Used **Git & GitHub** to manage and version-control project documentation, collaborating with technical teams directly in repositories.
-- Used **Jira** to track tasks, coordinate assignments across teams, and monitor progress on active workstreams.
+- Used **Jira & ClickUp** to track tasks, coordinate assignments across teams, and monitor progress on active workstreams.
+- Leverage **AI tools** (Claude, ChatGPT, Copilot) to accelerate documentation, improve communication drafts, and support operational reporting.
 
 ---
 
@@ -51,23 +56,42 @@ Currently supporting the **WKLGRC system** — handling coordination tasks, faci
 - ✅ Operational Documentation & Reporting
 - ✅ Stakeholder Communication Support
 - ✅ Attention to Detail & Problem-Solving
+- ✅ AI-Assisted Productivity
 
 ---
 
 ## 🛠️ Tools I Use
 
+**Project & Task Management**
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+**Version Control**
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Clickup](https://clickup.com/)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+**Microsoft 365**
+
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
+![OneNote](https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=microsoft-onenote&logoColor=white)
+
+**AI Tools**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaboration, consulting projects, or just a chat about project management and operations!
+Feel free to reach out for collaboration, consulting projects, or just a chat about operations and team coordination!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fatma--abdelrahim--hassan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatma-abdelrahim-hassan/)
